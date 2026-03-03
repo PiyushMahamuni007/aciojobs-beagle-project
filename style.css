@@ -1,0 +1,13 @@
+:root{
+    padding: 5px;
+}
+
+
+img{
+    height: 200px;
+}
+
+.section_1{
+   border: 1px solid black;
+   padding: 10px;
+}
